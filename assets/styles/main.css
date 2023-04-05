@@ -1,0 +1,14 @@
+.color_swatches {
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	padding-top: 10px;
+}
+
+.color_swatch {
+	display: block;
+	width: 20px;
+	height: 20px;
+	border-radius: 100px;
+	cursor: pointer;
+}
