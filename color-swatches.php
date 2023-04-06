@@ -12,7 +12,7 @@ Plugin URI: https://markomalec.com
 Description: Plugin for adding color swatches to your WooCommerce product loops
 
 
-Version: 1.0.0
+Version: 1.0.1
 
 
 Author: Marko Malec
