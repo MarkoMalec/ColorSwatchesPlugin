@@ -6,7 +6,7 @@
 Plugin Name: Simple Color Swatches for WooCommerce
 
 
-Plugin URI: https://markomalec.com
+Plugin URI: https://github.com/MarkoMalec/ColorSwatchesPlugin
 
 
 Description: Plugin for adding color swatches to your WooCommerce product loops
